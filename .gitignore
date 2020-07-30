@@ -3,3 +3,33 @@
 
 # Ada Library Information
 *.ali
+
+### OSX ###
+# Генеральный
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Значок должен заканчиваться двумя \r
+Икона
+
+# Ноготь большого пальца
+._*
+
+# Файлы, которые могут появиться в корне Тома
+.DocumentRevisions-V100
+.fseventsd
+.Прожектор-V100
+.Временные проблемы
+.Мусор
+.Томикон.icns
+.com. apple. timemachine. donotpresent
+
+# Каталоги, потенциально созданные на удаленном общем ресурсе AFP
+.AppleDB
+.AppleDesktop
+Сетевая Корзина Папка
+Временные Предметы
+.apdisk
+
+# Конец https://www.toptal.com/developers/gitignore/api/osx
